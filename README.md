@@ -27,7 +27,7 @@ If fewer than 2 arguments are passed, the script will raise an error and display
 
 
 
-<img width="1280" alt="Screenshot 2023-07-05 at 7 57 17 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/f4b815dc-14ea-47e2-94a9-0ae69673ec3b">
+<img width="1280" alt="Screenshot 2023-07-05 at 7 57 17 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/f4b815dc-14ea-47e2-94a9-0ae69673ec3b"><b>
 
 
 
@@ -35,7 +35,7 @@ Below is a screenshot of the terminal showing the execution of the shell script.
 
 
 
-<img width="1280" alt="Screenshot 2023-07-05 at 7 46 32 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/0eea9d27-96bd-4cb3-92ee-ea90e3f7ccf8">
+<img width="1280" alt="Screenshot 2023-07-05 at 7 46 32 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/0eea9d27-96bd-4cb3-92ee-ea90e3f7ccf8"><b>
 
 
 
@@ -48,5 +48,6 @@ Here are a few more examples of REST expressions you can use with the shell scri
 3. /user/repos: List repositories for the authenticated user.<b>
 4. /search/repositories?q={query}: Search repositories based on specific criteria.<b>
 5. /repos/{owner}/{repo}/branches: Get the list of branches for a specific repository.<b>
-6. Refer to the GitHub API documentation for more details on available endpoints and their usage.<b>
+
+Refer to the GitHub API documentation for more details on available endpoints and their usage.
 
