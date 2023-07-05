@@ -23,14 +23,16 @@ Run the shell script, providing the necessary arguments:
 Replace [REST expression] with the specific REST expression for the GitHub API you want to use.
 ```
 
-If fewer than 2 arguments are passed, the script will raise an error and display a usage message as shown below:
+If fewer than 2 arguments are passed, the script will raise an error and display a usage message as shown below:<b>
+
 
 
 <img width="1280" alt="Screenshot 2023-07-05 at 7 57 17 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/f4b815dc-14ea-47e2-94a9-0ae69673ec3b">
 
 
 
-Below is a screenshot of the terminal showing the execution of the shell script. The password environment variable is set, and the script is run with the appropriate arguments to retrieve information about a specific repository.
+Below is a screenshot of the terminal showing the execution of the shell script. The password environment variable is set, and the script is run with the appropriate arguments to retrieve information about a specific repository.<b>
+
 
 
 <img width="1280" alt="Screenshot 2023-07-05 at 7 46 32 PM" src="https://github.com/imsalmanmalik/GitHub-Api-Integration-Module/assets/121328365/0eea9d27-96bd-4cb3-92ee-ea90e3f7ccf8">
